@@ -1,0 +1,21 @@
+,"On a scale from 1-10, how likely would you be to use this lunchbox in the future?","On a scale from 1-10, how likely would you be to recommend this lunchbox to a friend?","Which of the lunchbox's functions was your favorite? (options: re-arrangeable compartments, heat/cool compartments, layered storage, pop-out handle, convertibility to a plate)",How much would you be willing to pay for this lunchbox if you saw it in a store? (Please answer in dollars),"Which of the lunchbox's functions was your least favorite? (options: re-arrangeable compartments, heat/cool compartments, layered storage, pop-out handle, convertibility to a plate)","Which color option was your favorite? (options: red, blue, green, black, silver)"
+#1,8,8,convertibility,35,layered storage,black
+#2,3,2,heat/cool,10,layered storage,black
+#3,7,7,handle,20,handle,red
+#4,6,7,heat/cool,15,layered storage,green
+#5,6,6,heat/cool,25,handle,silver
+#6,8,7,convertibility,30,re-arrangeable,black
+#7,5,5,heat/cool,22,layered storage,red
+#8,10,10,re-arrangeable,40,handle,black
+#9,7,8,re-arrangeable,20,convertibility,silver
+#10,7,5,handle,20,handle,green
+#11,5,4,convertibility,15,layered storage,blue
+#12,6,8,heat/cool,19,handle,black
+#13,7,8,heat/cool,23,handle,black
+#14,6,7,layered storage,25,layered storage,silver
+#15,8,8,convertibility,38,converitibility,blue
+#16,8,8,re-arrangeable,25,re-arrangeable,red
+#17,4,4,layered storage,18,layered storage,black
+#18,5,6,heat/cool,20,layered storage,blue
+#19,7,6,convertibility,20,layered storage,red
+#20,7,7,convertibility,30,handle,blue
